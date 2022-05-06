@@ -1,9 +1,9 @@
 # Sway MONOCHROME
 
-<img src=https://github.com/kanroot/Dotfiles/blob/master/screenshoots/screenshot_2022-05-05_12-15-12_231426780.png>
-<img src=https://github.com/kanroot/Dotfiles/blob/master/screenshoots/screenshot_2022-05-05_12-15-14_204232630.png>
-<img src=https://github.com/kanroot/Dotfiles/blob/master/screenshoots/screenshot_2022-05-05_12-16-31_255595582.png>
-<img src=https://github.com/kanroot/Dotfiles/blob/master/screenshoots/screenshot_2022-05-05_12-18-04_405012758.png>
+<img src=https://github.com/kanroot/Dotsfiles/blob/master/screenshoots/screenshot_2022-05-05_12-15-12_231426780.png>
+<img src=https://github.com/kanroot/Dotsfiles/blob/master/screenshoots/screenshot_2022-05-05_12-15-14_204232630.png>
+<img src=https://github.com/kanroot/Dotsfiles/blob/master/screenshoots/screenshot_2022-05-05_12-16-31_255595582.png>
+<img src=https://github.com/kanroot/Dotsfiles/blob/master/screenshoots/screenshot_2022-05-05_12-18-04_405012758.png>
 
 Component | Description
 ------------- | -------------
@@ -16,4 +16,3 @@ Component | Description
 | Wallpaper-daemon | [wpaperd](https://github.com/danyspin97/wpaperd)
 | File-manager | Ranger & Nautilus
 | launcher | wofi
-
